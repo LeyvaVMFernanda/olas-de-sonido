@@ -1,0 +1,211 @@
+
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: 'Victor Mono', monospace, 'Phudu', cursive;
+}
+
+body {
+  background-image: url(https://wallpapers.com/images/hd/vintage-aesthetic-vinyl-o6rq6m7wlhko8b9o.jpg);
+  padding: 10px;
+  text-align: center;
+}
+
+header {
+  border: 4px solid #A8DADC;
+  background-color: #457B9D;
+  padding: 20px 40px;
+  text-align: center;
+}
+
+header .logo {
+  width: 200px;
+  display: inline-block;
+  vertical-align: auto;
+}
+
+header nav {
+  display:inline-block;
+  margin-top: 20px;
+  text-align: center;
+  font-weight: 700;
+}
+
+header nav a{
+  text-align: center;
+  margin: 75px;
+  font-size: 25px;
+  color:#F1FAEE;
+}
+
+nav{
+  padding: 15px;
+}
+
+
+main {
+  margin: 0 auto;
+  padding: 15px;
+  text-align: center;
+}
+
+h1, h2, h3,h4 {
+  font-family: 'Phudu';
+  padding: 5px;
+}
+
+h1{
+  font-size: 200px;
+  color:#F1FAEE;
+  display:inline;
+}
+
+h2{
+  font-size: 100px;
+  font-weight: 600;
+}
+
+h3{
+  font-size: 75px;
+  font-weight: 600;
+  background-color: #1D3557;
+  color: #F1FAEE;
+}
+
+h4{
+  font-size: 30px;
+}
+
+
+
+.welcome {
+  background-color: #1D3557;
+  color: #F1FAEE;
+  padding: 15px;
+  margin: 20px auto;
+  max-width: 95%;
+  font-weight: 400;
+  font-size: 25px;
+}
+
+div, article, p, h3, iframe {
+  padding:10px;
+}
+.views {
+  text-align: center;
+  font-weight: 400;
+  font-size: 15px;
+}
+
+footer h2 {
+  display: inline;
+}
+
+figcaption:hover {
+  color:#A8DADC;
+  font-weight: 700;
+}
+
+a {
+  text-decoration: none;
+  padding: 5px;
+}
+
+a:checked{
+  text-decoration: none;
+}
+
+a:hover{
+  color:#E63946;
+  font-weight: 700;
+}
+
+header, footer a:hover{
+  color:#A8DADC;
+}
+
+
+.view1, .view2, .view3 {
+  width: 30%;
+  display: inline-block;
+  padding: 10px;
+  vertical-align: top;
+  margin: 10px;
+  background-color: #F1FAEE;
+  border: 2px solid #1D3557;
+}
+
+.view1, .view2, .view3 {
+  width: 30%;
+  display: inline-block;
+  padding: 10px;
+  vertical-align: top;
+  margin: 10px;
+  background-color: #F1FAEE;
+  border: 2px solid #1D3557;
+}
+
+.view1 figure, .view2 figure, .view3 figure {
+  text-align: center;
+}
+
+.view1 img, .view2 img, .view3 img {
+  max-width: 100%;
+  height: auto;
+}
+
+
+.spotify iframe {
+  width: 75%;
+}
+
+.youtube iframe {
+  width: 95%;
+  height: 350px;
+}
+
+.content {
+  max-width: 90%;
+  margin: 0 auto;
+  text-align: center;
+  display: inline-block;
+}
+
+.magazine {
+  width: 60%;
+  padding: 15px;
+  padding-top: 25px;
+  margin: 5px;
+  background-color: #A8DADC;
+  float: left;
+}
+
+ .music {
+  width: 35%;
+  padding: 15px;
+  padding-top: 25px;
+  margin: 5px;
+  background-color: #E63946;
+  float:right;
+}
+footer {
+  background-color: #E63946;
+  padding: 20px 40px;
+  text-align: center;
+  color: #1D3557;
+}
+
+footer .logo {
+  width: 100px;
+  display: inline-block;
+}
+
+footer nav a{
+  text-align: center;
+  color:#F1FAEE;
+  font-size: 20px;
+}
+
